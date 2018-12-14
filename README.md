@@ -32,7 +32,7 @@ The matrixs below represent our accuracy. First one is without normalization, an
 ![image](https://github.com/tomkelly110/Seedlings/blob/master/result/matrix2.png)
 ![image](https://github.com/tomkelly110/Seedlings/blob/master/result/matrix1.png)
 
-And for the users' interface, we created a website to test the image. The website is based on html and javascript, and we used flask as the flamework to connect python program and website.
+And for the users' interface, we created a website to test the image. At first we wanted to use php to connect the website with python and achieve the upload and download function. But then we found that the php is pretty complex and the TA suggested us to do it with flask. So finally, the website is based on html and javascript, and we used flask as the flamework to connect python program and website.
 
 Here are our website interfaces.
 
