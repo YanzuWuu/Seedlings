@@ -38,4 +38,4 @@ Here are our website interfaces.
 
 ![image](https://github.com/YanzuWuu/Seedlings/blob/master/result/web3.jpeg)
 ![image](https://github.com/YanzuWuu/Seedlings/blob/master/result/web1.jpeg)
-![image](https://github.com/YanzuWuu/Seedlings/blob/master/result/web2.jpeg)
+![image](https://github.com/YanzuWuu/Seedlings/blob/master/result/web2.png)
