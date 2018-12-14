@@ -32,3 +32,10 @@ The matrixs below represent our accuracy. First one is without normalization, an
 ![image](https://github.com/tomkelly110/Seedlings/blob/master/result/matrix2.png)
 ![image](https://github.com/tomkelly110/Seedlings/blob/master/result/matrix1.png)
 
+And for the users' interface, we created a website to test the image. The website is based on html and javascript, and we used flask as the flamework to connect python program and website.
+
+Here are our website interfaces.
+
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web3.png)
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web1.png)
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web2.png)
