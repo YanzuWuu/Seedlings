@@ -36,6 +36,6 @@ And for the users' interface, we created a website to test the image. The websit
 
 Here are our website interfaces.
 
-![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web3.png)
-![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web1.png)
-![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web2.png)
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web3.jpeg)
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web1.jpeg)
+![image](https://github.com/tomkelly110/Seedlings/blob/master/result/web2.jpeg)
